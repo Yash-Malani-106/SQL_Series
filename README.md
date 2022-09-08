@@ -2,6 +2,8 @@
 Complete SQL Series
 Practise of all the teachings of SUMIT SIR.
 
+Link to Playlists: https://www.youtube.com/playlist?list=PLtgiThe4j67rAoPmnCQmcgLS4iIc5ungg
+
 Summary of the tutorial include:
 * CRUD Operations:
      C - Create
