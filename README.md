@@ -10,7 +10,8 @@ Summary of the tutorial include:
      R - Read
      U - Update
      D - Delete
- * Primary & Unique Keys, Foreign Key Constraints
+ * Constraints: Primary, Unique Keys, Default, Not Null
+ * Foreign Key Constraints
  * Data Definition Language(DDL) & Data Manipulation language(DML)
  * Update, Truncate, Alter Commands
  * Distinct, Order By, Limit, Like keywords
